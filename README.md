@@ -35,6 +35,6 @@ A nice looking python calculator app made from tkinter
 
 
 ## Screenshots
-![Screenshot 1](https://github.com/Vishesh-Dvivedi/Python-Nice-Looking-Calculator/blob/main/images/screenshot.PNG "Screenshot 1")
-![Screenshot 2](https://github.com/Vishesh-Dvivedi/Python-Nice-Looking-Calculator/blob/main/images/screenshot2.PNG "Screenshot 2")
-![Screenshot 3](https://github.com/Vishesh-Dvivedi/Python-Nice-Looking-Calculator/blob/main/images/screenshot3.PNG "Screenshot 3")
+![Screenshot 1](https://github.com/visheshdvivedi/Simple-Python-Calculator/screenshot.PNG "Screenshot 1")
+![Screenshot 2](https://github.com/visheshdvivedi/Simple-Python-Calculator/screenshot2.PNG  "Screenshot 2")
+![Screenshot 3](https://github.com/visheshdvivedi/Simple-Python-Calculator/screenshot3.PNG "Screenshot 3")
